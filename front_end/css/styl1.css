@@ -1,0 +1,99 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    width: 99.2%;
+    padding: 0px;
+    background-image: url("../public/imagenes/166_animales_zoo.jpg");
+    text-align: center;
+    border-style:solid;
+    border-color: black;
+    border-width: 5px;
+    color:#ffffff;
+}
+header h1{
+    width: 100%;
+    padding: 0px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+
+nav ul {
+    width: 100%;
+    padding: 0px;
+        text-align: center;
+    background-color: #099e18;
+}
+
+nav ul li {
+    display: inline-block;
+    width: 400px;
+    height: 16px;
+    padding: 10px;
+    border: 5px solid rgb(236, 186, 20);
+    color: rgb(0, 0, 0);
+
+}
+
+nav ul li a:hover {
+background-color: #E6B203;
+color: black;
+}
+
+body{
+    background-color: rgb(142, 177, 61);
+}
+
+.center1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-top: 7px;
+    width: 20%;
+    border-style:solid;
+    border-color: rgb(83, 78, 78);
+    border-width: 7px;
+}
+
+.pt1{
+    margin-top: 7px;
+    margin-bottom: 5px;
+}
+.pt2{
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
+.pt3{
+    margin-bottom: 5px;
+}
+
+
+footer {
+    width: auto;
+}
+
+
+.footer{
+    color: white;
+    background-color: rgb(109, 105, 105);
+    border-style:solid;
+    border-color: black;
+    border-width: 4px;
+}
+.logo{
+    background-color: rgb(52, 84, 126);
+    border-style:solid;
+    border-color: black;
+    border-width: 4px;
+}
+
+.menufoot{
+    margin-top: 3px;
+}
+ 
+
+ 
